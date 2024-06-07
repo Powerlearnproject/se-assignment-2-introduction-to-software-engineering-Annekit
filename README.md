@@ -22,7 +22,15 @@ difference between software engineering and tradditional programming
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:the phases of SDLC include the following
-   -planning
+   -planning:identifying the project objectives and establishing a plan
+   -requirements:gathering all the documents and information needed
+   -design:Creating design documents, diagrams (e.g., UML diagrams)
+   -imlimentation:translate design specifications into executable code by writing the code according to design specifications and coding standards
+   -testing:this is the process of checking whether the software is functioning and fixing the errors
+   -deployment:the software is released to the users
+   -maintainance:it includes updating the software
+-agile model:is an iterative and incremental approach that emphasizes flexibility, collaboration, and customer feedback focusing on delivering small, functional pieces of software frequent
+-waterfall model:is a linear and sequential approach where each phase must be completed before the next begins
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
