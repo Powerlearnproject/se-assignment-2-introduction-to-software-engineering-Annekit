@@ -9,10 +9,20 @@ Questions:
 Define Software Engineering:is the systematic application of the principles,methods and tools of engineering to develop and maintain high quality software systems
 
 What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
+Software Development Life Cycle (SDLC):software engineering is the systematic application of the principles,methods and tools of engineering to develop and maintain high quality software systems
+difference between software engineering and tradditional programming
+   -traditional programming focuses on creating a code to serve a specific task while SDLC focuses on creating large and complex systems to meet users needs and can be maintained and scaled over time
+   -traditional programming may involve ad-hoc or informal approaches to coding and problem-solving emphasising on quick fixes or small-scale solutions while software engineering utilizes structured methodologies and processes e.g.Agile and Waterfall to ensure that all aspects of software development are planned, executed, and reviewed systematically
+   -traditional programming often involves individual programmers or small teams working independently while software engineering involves larger, multidisciplinary teams working collaboratively e.g project managers, systems analysts, architects, designers, testers, and more
+   -traditional programming testing and debugging may be done by the programmer with limited formal QA processes while software engineering incorporates rigorous testing, quality assurance, and validation processes to ensure the software meets specified requirements and standards
+   -traditional programming documentation is minimal while software engineering emphasizes thorough documentation throughout the development process to facilitate maintenance, updates, and knowledge transfer.
+
+   
+
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
-Agile vs. Waterfall Models:
+Agile vs. Waterfall Models:the phases of SDLC include the following
+   -planning
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
