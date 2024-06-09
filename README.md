@@ -17,9 +17,6 @@ difference between software engineering and tradditional programming
    -traditional programming testing and debugging may be done by the programmer with limited formal QA processes while software engineering incorporates rigorous testing, quality assurance, and validation processes to ensure the software meets specified requirements and standards
    -traditional programming documentation is minimal while software engineering emphasizes thorough documentation throughout the development process to facilitate maintenance, updates, and knowledge transfer.
 
-   
-
-
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:the phases of SDLC include the following
    -planning:identifying the project objectives and establishing a plan
@@ -34,7 +31,7 @@ Agile vs. Waterfall Models:the phases of SDLC include the following
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
-
+c
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:
 
